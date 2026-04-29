@@ -2,6 +2,4 @@ id,name,IATA,city,country,latitude,longitude
 1,Charles de Gaulle,CDG,Paris,France,49.0097,2.5479
 2,Orly Airport,ORY,Paris,France,48.7262,2.3652
 3,Heathrow Airport,LHR,London,United Kingdom,51.4700,-0.4543
-4,Gatwick Airport,LGW,London,United Kingdom,51.1537,-0.1821
-5,Mohammed V Airport,CMN,Casablanca,Morocco,33.3675,-7.5899
-6,Menara Airport,RAK,Marrakech,Morocco,31.6069,-8.0363
+10,John F Kennedy,JFK,New York,United States,40.6413,-73.7781
